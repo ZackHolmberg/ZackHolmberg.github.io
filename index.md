@@ -57,6 +57,7 @@ TECHNICAL SKILLS
 | SQL  | iOS/OSX  |
 | Ruby  |
 
+
 VOLUNTEER EXPERIENCE
 ----------
 
