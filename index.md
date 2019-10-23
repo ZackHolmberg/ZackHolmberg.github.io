@@ -41,9 +41,9 @@ PERSONAL PROJECTS
 
 **Your UMSU's Campaign Website**  
 *HTML5, CSS, Javascript, jQuery, Google Analytics, Firebase*  
-* Developed a website for a candidate, now elected, team for the 2019 University of Manitoba Student’s Union Election. The site had about 1500 unique users. Hosted the site with Firebase and monitored statistics with GoogleAnalytics
+* Developed a website for a candidate, now elected, team for the 2019 University of Manitoba Students' Union Election. The site had about 1500 unique users. Hosted the site with Firebase and monitored statistics with Google Analytics.
 
-Techincal Skills
+TECHNICAL SKILLS
 --------------------
 
 | Languages  | Technologies | Software  |
@@ -66,4 +66,4 @@ Senate Committee on Academic Computing – University of Manitoba
 
 **Computer Lab Education Assistant**        (Sept 2015 - June 2015)   
 Carman Elementary School – Carman, MB 
-* Provided students with help and material to teach them aboutcomputer technology.
+* Provided young students with lessons to help them learn how to use computers.
