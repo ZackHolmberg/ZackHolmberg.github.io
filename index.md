@@ -17,7 +17,8 @@ RELEVANT WORK EXPERIENCE
 
 **Web Coordinator**        (May 2019 - Aug 2019)   
 Manitoba Government, Finance Department – Winnipeg, MB 
-* Updated and maintained Finance Department internet, intranet, and collaboration sites.•Designed and developed new applications to increase efficiency within the department.
+* Updated and maintained Finance Department internet, intranet, and collaboration sites.
+* Designed and developed new applications to increase efficiency within the department.
 
 **Freelance Web Developer**         (June 2019 - Sept 2019)   
 University of Manitoba Students Union – Winnipeg, MB 
