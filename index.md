@@ -65,6 +65,6 @@ VOLUNTEER EXPERIENCE
 Senate Committee on Academic Computing – University of Manitoba  
 * Receive, review, prioritize and make recommendations to Senate, as appropriate, about proposed IT initiatives related to teaching and learning.
 
-**Computer Lab Education Assistant**        (Sept 2015 - June 2015)   
+**Computer Lab Education Assistant**        (Sept 2014 - June 2015)   
 Carman Elementary School – Carman, MB 
 * Provided young students with lessons to help them learn how to use computers.
