@@ -18,7 +18,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Format Your Resume In Markdown
 
-    __Stop!__ Before you proceed, take the time to update your resume. We often forget to include our most recent job or latest project in our resume. Once your resume is up-to-date, continue on.
++ __Stop!__ Before you proceed, take the time to update your resume. We often forget to include our most recent job or latest project in our resume. Once your resume is up-to-date, continue on.
 
     1. Download and set up a text editor (if you don't already have one).
 
