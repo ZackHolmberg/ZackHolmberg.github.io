@@ -18,7 +18,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Format Your Resume In Markdown
 
-+ __Stop!__ Before you proceed, take the time to update your resume. We often forget to include our most recent job or latest project in our resume. Once your resume is up-to-date, continue on.
+* __Stop!__ Before you proceed, take the time to update your resume. We often forget to include our most recent job or latest project in our resume. Once your resume is up-to-date, continue on.
 
     1. Download and set up a text editor (if you don't already have one).
 
@@ -112,8 +112,8 @@
 
 * ### Q - Can I customize the domain of my GitHub Pages site?
 
-* __A: Yes! Click [here](https://help.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages) to learn about custom domains and GitHub Pages.__
+    __A: Yes! Click [here](https://help.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages) to learn about custom domains and GitHub Pages.__
 
 * ### Q - How do I unpublish my GitHub Pages site?
 
-* __A: Only people with admin permissions for a repository can unpublish a GitHub Pages site. If your intention is to keep the GitHub Pages repository but unpublish your resume from the site, simply rename your `index.md` file to anything else, like `resume.md`. If you would like to remove the GitHub Pages site completely, simply delete the GitHub Pages repository.__
+    __A: Only people with admin permissions for a repository can unpublish a GitHub Pages site. If your intention is to keep the GitHub Pages repository but unpublish your resume from the site, simply rename your `index.md` file to anything else, like `resume.md`. If you would like to remove the GitHub Pages site completely, simply delete the GitHub Pages repository.__
