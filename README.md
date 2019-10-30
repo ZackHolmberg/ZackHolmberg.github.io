@@ -52,7 +52,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Upload Your Markdown Resume To Your Repository
 
-* Due to the particular name of the file, GitHub Pages will automatically display your resume on your site.
+* GitHub Pages will automatically display your resume on your site after you upload it. This is due to the special name we gave the resume Markdown file.
 
     1. Add your `index.md` file to the repository.
 
